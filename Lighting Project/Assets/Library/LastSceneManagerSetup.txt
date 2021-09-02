@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/CartoonLowPolyCityLite/Scenes/NightScene/NightScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
