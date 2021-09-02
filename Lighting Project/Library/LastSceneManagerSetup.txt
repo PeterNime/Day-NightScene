@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Assets/InteriorAttic/Scenes/Nightlight/Nightlight.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
