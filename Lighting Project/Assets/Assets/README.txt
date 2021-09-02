@@ -1,1 +1,0 @@
-Assets from: https://assetstore.unity.com/packages/3d/environments/urban/cartoon-low-poly-city-pack-lite-166617
